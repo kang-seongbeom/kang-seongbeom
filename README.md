@@ -30,6 +30,10 @@
 </p>
 
 <p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkfka9045">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=Easy-android">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=SMC">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=jeonbiseo">
