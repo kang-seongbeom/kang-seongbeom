@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:11998e,100:38ef7d&height=250&section=header&text=Luke&fontAlignY=40&fontSize=100&fontColor=ffffff&desc=어제보다%200.01%20더%20나아간%20개발자">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:11998e,100:38ef7d&height=250&section=header&text=Luke&fontAlignY=40&fontSize=100&fontColor=ffffff&desc=어제보다%20&#37%1%20더%20나아간%20개발자">
 </div>
 
 <p align="center"backgroun="#000000">
