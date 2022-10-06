@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:11998e,100:38ef7d&height=250&section=header&text=Luke&fontAlignY=40&fontSize=100&fontColor=ffffff&desc=어제보다 1%20&#37%%20더%20나아간%20개발자">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:11998e,100:38ef7d&height=250&section=header&text=Luke&fontAlignY=40&fontSize=100&fontColor=ffffff&desc=어제보다%200.01%20더%20나아간%20개발자">
 </div>
 
 <p align="center"backgroun="#000000">
@@ -29,9 +29,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-seongbeom&layout=compact&theme=vue&card_width=445">
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkfka9045">
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=Easy-android">
