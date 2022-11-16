@@ -35,10 +35,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=Easy-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=SMC">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=jeonbiseo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=Travisor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=RecyclingHelper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Banryeo&repo=Travisor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KyangGoGo&repo=RecyclingHelper">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=Siamese_Cnn_Model">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKangGoGo&repo=MQServer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKangGoGo&repo=SiameseServer">
