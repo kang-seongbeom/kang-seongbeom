@@ -23,23 +23,9 @@
 <br>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kang-seongbeom&show_icons=true&theme=vue">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-seongbeom&layout=compact&theme=vue&card_width=445">
-</p>
-
-<p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkfka9045">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=Easy-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=jeonbiseo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Banryeo&repo=Travisor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KyangGoGo&repo=RecyclingHelper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kang-seongbeom&repo=Siamese_Cnn_Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKangGoGo&repo=MQServer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKangGoGo&repo=SiameseServer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKangGoGo&repo=BackEndServer">
+  <img src="https://github-readme-stats.vercel.app/api?username=kang-seongbeom&show_icons=true&theme=vue">
 </p>
